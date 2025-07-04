@@ -213,13 +213,13 @@ input[type="checkbox"] {
     width: 90%;
     margin: 0 auto 100px;
     padding: 20px 0;
-}
-.login-wrap>.login-title{
+    }
+    .login-wrap>.login-title{
     width: 90%;
-}
-.login-wrap>.login-title>p{
+    }
+    .login-wrap>.login-title>p{
     font-size: 25px;
-}
+    }
 
     .login-tab{
         font-size: 14px;
@@ -242,7 +242,7 @@ input[type="checkbox"] {
     vertical-align: middle;
     border: none;
     margin-left: 20px;
-}
+    }
   .login-submit-btn{
     width: 90%;
     height: 46px;
